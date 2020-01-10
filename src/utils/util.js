@@ -1,6 +1,5 @@
 import axios from 'axios';
 
-
 export function post(url, data, isformData = false) {
   return new Promise((resolve, reject) => {
     let header = isformData ? null : { 'Content-type': 'application/json' };

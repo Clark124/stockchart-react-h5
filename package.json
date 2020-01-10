@@ -1,6 +1,6 @@
 {
   "name": "stockchart-react-h5",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "stockchart of react in mobile",
   "main": "dist/bundle.js",
   "files": [
@@ -18,7 +18,7 @@
     "dev": "webpack-dev-server --config webpack.dev.config.js",
     "build": "webpack --config webpack.prod.config.js"
   },
-  "keywords": ["stockchart","react","h5","股票图形","K先图","分时图"],
+  "keywords": ["stockchart","react","h5","股票图形","K线图","分时图"],
   "author": "Clark",
   "license": "MIT",
   "devDependencies": {

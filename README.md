@@ -71,8 +71,12 @@ klineTestData and minTestData is test data
 ```
 
 ### contact
-if you has some question, can contact with me
-QQ:53799906  wecheat:clark0124
+if you has some question, can contact with me.
+if you need ,also could contact with me
+
+#### QQ:53799906  wecheat:clark0124
 
 ##### more options and api will update in future
 
+##### react-native or wecheat edition for stockchart will published in future
+ 
