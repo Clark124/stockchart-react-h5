@@ -1,6 +1,6 @@
 {
   "name": "stockchart-react-h5",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "stockchart of react in mobile",
   "main": "dist/bundle.js",
   "files": [
