@@ -4,6 +4,10 @@ Create highly customizable stock charts in mobile
 
 Built with React 
 
+![效果1](https://github.com/Clark124/stockchart-react-h5/blob/master/example/src/images/klinechart.png?raw=true)
+
+![效果2](https://github.com/Clark124/stockchart-react-h5/blob/master/example/src/images/minchart.png?raw=true)
+
 ### Installation
 ```
 npm install --save stockchart-react-h5
