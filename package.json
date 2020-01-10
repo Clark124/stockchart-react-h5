@@ -3,6 +3,16 @@
   "version": "1.0.7",
   "description": "stockchart of react in mobile",
   "main": "dist/bundle.js",
+  "files": [
+    "dist",
+    "example",
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Clark124/stockchart-react-h5.git"
+  },
+  "homepage": "https://github.com/Clark124/stockchart-react-h5",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.config.js",
     "dev": "webpack-dev-server --config webpack.dev.config.js",

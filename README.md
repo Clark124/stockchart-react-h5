@@ -6,7 +6,7 @@ Built with React
 
 ### Installation
 ```
-npm install  --save stockchart-react-h5
+npm install --save stockchart-react-h5
 
 ```
 
