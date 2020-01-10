@@ -42,7 +42,7 @@ class App extends Component {
           ref={chart => this.chart = chart}
         />
         <br />
-        <MiniuteGraph
+        <MinChart
           ref={chart => this.minchart = chart}
         />
       </div>
